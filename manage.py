@@ -1,0 +1,13 @@
+asgiref==3.7.2
+certifi==2024.2.2
+charset-normalizer==3.3.2
+crispy-bootstrap5==2024.2
+Django==4.2.6
+django-crispy-forms==2.1
+idna==3.6
+pillow==10.2.0
+razorpay==1.4.1
+requests==2.31.0
+sqlparse==0.4.4
+tzdata==2023.3
+urllib3==2.2.1
